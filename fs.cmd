@@ -1,3 +1,4 @@
+## THIS SCRIPT IS MADE BY FA5AMAHD using ADOBETRAGIC
 @echo off
 title goonerp
 
